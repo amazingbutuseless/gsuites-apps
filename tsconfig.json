@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "lib": ["esnext"],
+      "experimentalDecorators": true,
+      "isolatedModules": true,
+      "noLib": true,
+      "noResolve": true,
+      "target": "ES3",
+      "module": "None",
+      "noImplicitUseStrict": true
+    }
+  }
